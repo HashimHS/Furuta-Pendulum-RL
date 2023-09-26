@@ -6,11 +6,21 @@ The goal of this project is to balance the Furuta Pendulum upward using various 
 
 You can find more information about this project in the [included report](https://github.com/HashimHS/Furuta-Pendulum-RL/blob/main/report/final/Final_report.pdf).
 
+# Included Models
+- AlphaZero
+- TD3
+- State feedback control model with TD3
+- Model Predictive Control (buggy but works in simulation)
+
+All these models are found in the Jupyter Notebooks included [here](https://github.com/HashimHS/Furuta-Pendulum-RL/tree/main/src).
+
 # Requirements
 - Julia v1.8.5
 
 - ReinforcementLearning.jl v0.10.2
 
 - Flux v0.12.10
+
+- FurutaPendulums Package [(included)](https://github.com/HashimHS/Furuta-Pendulum-RL/tree/main/model/FurutaPendulums/ATRXR)
 
 - Jupyter notebooks
