@@ -4,7 +4,7 @@ The Furuta Pendulum is a type of inverted pendulum, the control of which is a cl
 
 The goal of this project is to balance the Furuta Pendulum upward using various learning techniques and to compare the results.
 
-You can find more information about this project in the documents included report folder
+You can find more information about this project in the [included report](https://github.com/HashimHS/Furuta-Pendulum-RL/blob/main/report/final/Final_report.pdf).
 
 # Requirements
 - Julia v1.8.5
